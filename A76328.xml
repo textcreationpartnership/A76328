@@ -1,0 +1,164 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To Mr. John Eliot, an Esq; at (or near) the doores of the right honorable the Parliament of England</title>
+            <author>Beech, William.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76328</idno>
+            <idno type="STC">Wing B1682A</idno>
+            <idno type="STC">ESTC R231030</idno>
+            <idno type="EEBO-CITATION">99896763</idno>
+            <idno type="PROQUEST">99896763</idno>
+            <idno type="VID">135147</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76328)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 135147)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2435:8a)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To Mr. John Eliot, an Esq; at (or near) the doores of the right honorable the Parliament of England</title>
+                  <author>Beech, William.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1650]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: William Beech.</note>
+                  <note>Imprint from Wing CD-ROM, 1996.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:135147:1" rendition="simple:additions"/>
+            <head>To Mr. <hi>John Eliot,</hi> an <abbr>Eſq</abbr> at (or near) the doores of the right Honorable the Parliament of <hi>England.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Dread to ſend to your <hi>lodging</hi> any more, leſt you ſhould <hi>libell</hi> again for the good counſell ſent you, in behalfe of the State, and for the good of your ſelfe (that you would confeſſe your great offence.) Was not that the ef<g ref="char:EOLhyphen"/>fect of the letter, that came to your lodging? Your <hi>boldneſſe</hi> is high, when you dare affirm <hi>contradictions,</hi> that an <hi>invect<g ref="char:EOLhyphen"/>ive</hi> letter, could be as well <hi>perſwaſive</hi> as <hi>invective,</hi> and that <hi>rayling Beech</hi> (as you libell him) ſhould ſeeke, by <hi>railing,</hi> to indear his old <hi>enemy (Eliot)</hi> to get him the collop of an eſtate, now in <hi>Huckeſters</hi> hands, and in the ſame letter too? madnes indeed! what? then, when Mr. <hi>Eliots Ax of Array</hi> was ſcarce taken from the <hi>Root</hi> of this <hi>Beech?</hi> or rather, when this <hi>Beech</hi> was but newly removed from <hi>Eliots Ax</hi> of <hi>Array?</hi> what, and then? when <hi>Eliot</hi> had gotten for his <hi>Malignant Axe</hi> a Parliament <hi>Helt?</hi> and then, when <hi>Eliots Ax</hi> had ſo mangled this <hi>Beech,</hi> as a <hi>Parliament Ax?</hi> And was this the ſeaſon that <hi>Beech</hi> did write to <hi>Eliot</hi> to ſpare the <hi>root</hi> to hold up this <hi>Beech:</hi> or to procure a collop to ſtrengthen his ſides? dull ſeaſon! more dull man to chop ſuch a ſeaſon, ſuch an inſtrument! But O! your <hi>boldneſſe</hi> (ſir) that durſt attempt to have people beleeve you any thing! <hi>Experience,</hi> arreſt this man of <hi>falſehood.</hi> Say, can a <hi>gnawing coroſive,</hi> and a <hi>heart-eaſing Cordiall</hi> (both) be given in the <hi>ſame cup?</hi> or mixt at the <hi>ſame miniſtration?</hi> it cannot be, you that
+<pb n="2" facs="tcp:135147:2"/>have ſenſe, be you witneſſes for <hi>experience,</hi> againſt Mr. <hi>Eliot.</hi> Sir, what I now ſend, I ſend to a DOORE, where others may judge as well as your ſelfe, of that which is ſent.</p>
+            <p>I find by your <hi>libells</hi> (though I ſee not your <hi>water</hi>) that your <hi>eyes be red,</hi> and that their fiery diſtemper, hath deceived you in the object of your ſeeing. To <hi>Red eyes,</hi> things objected do ſeem <hi>Red,</hi> to <hi>greene eyes,</hi> things ſeem <hi>greene,</hi> And by <hi>counterfeits,</hi> things that have never ſo true <hi>exiſtency,</hi> are blazed abroad to be <hi>counterfeits.</hi>
+            </p>
+            <p>Sir, I have ſomething elſe to doe, then repeat your <hi>pittifull contradictions</hi> in your late <hi>legend,</hi> only I demand where were your <hi>wits</hi> (though you had loſt your <hi>honeſty</hi>) to tax me of <hi>Malignaney,</hi> and of favor to <hi>Revolters?</hi> Is it not generally known to be falſe? even in that very Honourable <hi>Aſſembly</hi> where you would faſten it? Did you never ſee a <hi>Treatiſe,</hi> intituled <hi>[More ſulpher for Baſing, &amp;c.]</hi> No? you had one. Nor yet the <hi>[plot from Edom, &amp;c.]</hi> No? yes, I am ſure you had one. And did you not ſee that letter to Maj. Gen. <hi>BROWNE,</hi> with this inſcription, <hi>[The moſt famous London's blow<g ref="char:EOLhyphen"/>ing up by Londoners]</hi> you will ſay no, why then, here is one ſent you, though the name of <hi>Benjamin</hi> be ſubſcribed, (for his deare nearneſſe to <hi>Joſeph</hi>) yet <hi>Beech</hi> was that <hi>Benjamin,</hi> that did firſt <hi>ondite,</hi> then <hi>preſſe</hi> it to ſerve the <hi>State,</hi> againſt <hi>revolting</hi> and <hi>revol<g ref="char:EOLhyphen"/>ters,</hi> and againſt Mr. <hi>Eliots ſix declenſions</hi> too, and againſt the man with the <hi>darke Lanthorn</hi> too, in the laſt page of the inſuing <hi>ALA<g ref="char:EOLhyphen"/>R<g ref="char:V">Ʋ</g>M.</hi> And think ſir, whether <hi>YO<g ref="char:V">Ʋ</g>
+               </hi> may not be the man with that <hi>LANTHORNE:</hi> and whether you did not write in one of your letters (found, and copied) that you had ſuch a <hi>Lanthorne,</hi> and that you would carry it with you into <hi>Pembrooke</hi> ſhire, after your firſt four yeares <hi>digging,</hi> And did you not do as you ſaid?</p>
+            <p>Sir, you have no <hi>ſhift</hi> for your <hi>falſehood</hi> (now) but to engage your <hi>ſhrinked reputation</hi> that you did behold (through a cranney) <hi>Beeches</hi> heart not to be right, nor yet his aimes good; what ever he had done or ſuffered. Seeing you will be caſt and gone, if you ſtand to prove him a <hi>friend</hi> to <hi>Revolters.</hi> It is thought that the Honourable <hi>Speaker</hi> doth yet remember ſome <hi>remarkable paſſa<g ref="char:EOLhyphen"/>ges</hi> at the <hi>Rowles,</hi> when <hi>Beech</hi> did perſwade obedience to the Par<g ref="char:EOLhyphen"/>liament in theſe latter ſtirs, and did utter his <hi>well-wiſhings</hi> to the <hi>Army,</hi> as well againſt <hi>Revolters in England,</hi> as <hi>Rebells in Ireland.</hi> I know Mr. <hi>Speaker</hi> doth remember a <hi>paſſage.</hi>
+            </p>
+            <p>Sir, You might ſee that <hi>Beech</hi> hath a <hi>CLEER</hi> of witneſſes. You
+<pb n="3" facs="tcp:135147:2"/>doe boaſt (but you do in your brag, abaſe that <hi>ſacred alluſion</hi>) that you have a <hi>CLOUD OF WITNESSES.</hi> Indeed it muſt be a <hi>cloud</hi> if any thing, it will never be a <hi>[cleer]</hi> that you are <hi>honeſt,</hi> and <hi>well affected.</hi>
+            </p>
+            <p>Sir, <hi>Clouds</hi> may be diſperſed, <hi>Rees ap Rees</hi> is dead, that Pillo<g ref="char:EOLhyphen"/>ry blade, that executioner of <hi>Round-heads</hi> (when you were a <hi>Cabby</hi>) that <hi>Marſhall to Gerrard,</hi> that <hi>wel affected man,</hi> ſince, ſaid Mr. <hi>Eliot,</hi> that grand witneſſe againſt <hi>Malignants,</hi> in M. <hi>Eliots cloud,</hi> that <hi>Truſtie officer</hi> for the State, in M. <hi>Eliots agency:</hi> But the <hi>cloud is diſ<g ref="char:EOLhyphen"/>pelled,</hi> and <hi>terrible examples</hi> of late have been 'ſhewne to <hi>Knights of the Poſt.</hi> Sir, They will not dare now, as formerly, ſwear that <hi>Chalke is Cheeſe,</hi> yet ſir, <hi>ſuch props</hi> muſt ſupport <hi>your reputation,</hi> and your <hi>Legends,</hi> and the credit of a <hi>broken preſſe</hi> may ſerve as one witneſſe amongſt ſome, or elſe beleeve it, ſir, nothing in the world can do it. All that is <hi>light,</hi> and all that is <hi>true,</hi> will diſ<g ref="char:EOLhyphen"/>cover your <hi>falſehood.</hi>
+            </p>
+            <p>Sir, Querie this to your ſelfe, may there not be ſome <hi>divinity,</hi> in the <hi>reſtleſneſſe</hi> of this <hi>Beech?</hi> why doth hee haunt mee ſo from <hi>Roome to Roome?</hi> from my Lodgings to the Lobby? from <hi>Vault</hi> to <hi>Vault?</hi> privately, publickely, when all bee a ſleepe hee is ſtirring, and ſees mee in the <hi>darke?</hi> doth hee not know me <hi>better then the woman that did beare mee?</hi> how elſe durſt he contend with a Gentleman of my <hi>height and reputation?</hi> Dare theſe <hi>droſſie inferiours</hi> contend in a hot furnace of <hi>my gold?</hi> And will <hi>Beech</hi> be a <hi>Soliciter</hi> for the <hi>State,</hi> and a <hi>Miniſter</hi> too? Is it not odious and ſcandalous? And what <hi>gaine</hi> doth he get, but <hi>broken ſhins?</hi> doth he not ſee me to be the only <hi>Juſtice</hi> and <hi>Committee<g ref="char:EOLhyphen"/>man</hi> that doth remain in favor at the <hi>door,</hi> through all the <hi>turns of State?</hi> And doth he not perceive that I am <hi>provided for all changes?</hi> if there ſhould be an hundred more? why will he be that <hi>ſturdy wave</hi> that will <hi>daſh himſelf</hi> againſt the <hi>Rock of my power?</hi> Have not <hi>ſhips of a thouſand tuns,</hi> and all the <hi>mighty waves</hi> that ever came up<g ref="char:EOLhyphen"/>on me, <hi>been broken to peeces?</hi> Doth not he know ſo much? And doth he not ſee what a <hi>braine</hi> and <hi>a brow</hi> I have? Nor yet how proſperouſly <hi>I drive on ſtill</hi> with that <hi>ſtock</hi> of <hi>credit,</hi> given me by <hi>ſecluded Members?</hi> And will he not underſtand, how well I am provided to anſwer about the buſineſſe of <hi>Debenters?</hi> Would any but a <hi>Madman</hi> deale with me, if there were not ſome <hi>rarity</hi> in the
+<pb n="4" facs="tcp:135147:3"/>worke? Truely ſir, there is ſomething that doth act me beyond the <hi>baite</hi> of your <hi>Collop.</hi> And this I know, that if the <hi>Parliament</hi> be <hi>ſafe,</hi> you muſt be <hi>ſecured,</hi> and kept from their door.</p>
+            <p>Truly ſir, it ſhall not trouble me, what ever <hi>wrong</hi> I ſuſtaine more, by your falſe tongue, and <hi>libelling pen-man,</hi> ſo <hi>juſtice</hi> be <hi>ſafe,</hi> and <hi>ſway</hi> the <hi>Scepter.</hi> If <hi>FALSEHOOD</hi> might once be <hi>turned out of doores,</hi> if a poore mans tale might be heard; and if <hi>knavery in Scarlet</hi> may receive ſuch a <hi>Marke,</hi> that it never creep into favour againe, Mr. <hi>Eliot,</hi> beleeve it, <hi>Beeches mouth will be then ſtopped,</hi> more then by an hundred of your thin <hi>(Maligned) Collops.</hi>
+            </p>
+            <p>Sir, give him leave to <hi>delight his afflicted mind</hi> with a plain verſe, becauſe he is oft <hi>very melancholly,</hi> and you love to make him ſo. Pray do not ſpeak ill of it. And though (your friend) <hi>Prag,</hi> belches out verſes envenom'd: your deſpiſed <hi>friend Beech,</hi> doth not do ſo, pray doe not ſay he doth, when he doth not, but thus take him as he means, without any affectation of loftineſſe, Thats your ſtraine.</p>
+            <q>
+               <l>When once I ſee this <hi>happy day,</hi>
+               </l>
+               <l>More pleaſing then the <hi>Flowers</hi> in <hi>May,</hi>
+               </l>
+               <l>When <hi>choaking weeds</hi> plunkt by the <hi>poore,</hi>
+               </l>
+               <l>And <hi>Knaves</hi> be driven from <hi>COMMONS DOOR.</hi>
+               </l>
+               <l>When <hi>Juſtice</hi> growes, and <hi>ſweet</hi> diſtills,</l>
+               <l>The <hi>ſence</hi> delights, and <hi>Right</hi> fulfills,</l>
+               <l>O welcome be that <hi>happy time:</hi>
+               </l>
+               <l>Reſpiring ſweet like <hi>Roſe in prime,</hi>
+               </l>
+               <l>Then <hi>Beeches</hi> mouth ſhall <hi>ſtopped</hi> be,</l>
+               <l>When <hi>Subjects</hi> have this liberty.</l>
+            </q>
+            <closer>
+               <signed>Your neglected Monitor, WILLIAM BEECH.</signed>
+            </closer>
+            <pb facs="tcp:135147:3"/>
+         </div>
+      </body>
+   </text>
+</TEI>
